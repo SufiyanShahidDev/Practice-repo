@@ -1,0 +1,1 @@
+Leet Code Problem NO. 14 Solution Done by using Vanilla JavaScript.
