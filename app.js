@@ -28,8 +28,8 @@ var longestCommonPrefix = function (strs) {
     return prefix;
 };
 
-// const arr = ["flower", "flower", "flower", "flower"];
+const arr = ["flower", "flower", "flower", "flower"];
 
-// let longestCommonPrefixVar = longestCommonPrefix(arr);
+let longestCommonPrefixVar = longestCommonPrefix(arr);
 
-// console.log("longestCommonPrefixVar: ", longestCommonPrefixVar);
+console.log("longestCommonPrefixVar: ", longestCommonPrefixVar);
