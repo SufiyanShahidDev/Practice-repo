@@ -22,4 +22,9 @@ var longestCommonPrefix = function (strs) {
             }
         }
 
-       
+//         prefix += currentLetter;
+//     }
+
+//     return prefix;
+// };
+
