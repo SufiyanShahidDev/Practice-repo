@@ -12,3 +12,9 @@ var longestCommonPrefix = function (strs) {
         // currentLetter = e
         if (strs[0][i] == undefined) return prefix;
 
+        // currentLetter = strs[0][i];
+        // for (let j = 1; j < strs.length; j++) {
+            // j = 1
+            // h                strs[1][1] = h
+
+            
