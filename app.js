@@ -17,9 +17,9 @@ var longestCommonPrefix = function (strs) {
             // j = 1
             // h                strs[1][1] = h
 
-        //     if (currentLetter !== strs[j][i]) {
-        //         return prefix;
-        //     }
-        // }
+            if (currentLetter !== strs[j][i]) {
+                return prefix;
+            }
+        }
 
        
