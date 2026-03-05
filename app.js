@@ -3,3 +3,6 @@
 
 var longestCommonPrefix = function (strs) {
     if (strs.length === 1) return strs[0][0];
+
+    // let prefix = "";
+    // let currentLetter = "";
