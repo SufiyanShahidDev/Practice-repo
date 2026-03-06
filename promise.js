@@ -11,3 +11,7 @@ fetchData
     .catch(err => console.log(err));
 
 // login Promise
+
+const login = new Promise((resolve, reject)
+
+)
