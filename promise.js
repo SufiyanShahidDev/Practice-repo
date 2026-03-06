@@ -12,6 +12,8 @@ fetchData
 
 // login Promise
 
-const login = new Promise((resolve, reject)
+const login = new Promise((resolve, reject) => {
+    
+}
 
 )
