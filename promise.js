@@ -1,7 +1,7 @@
-// const fetchData = new Promise((resolve, reject) => {
+const fetchData = new Promise((resolve, reject) => {
 
-//     setTimeout(() => {
-//         resolve("Data received from server");
-//     }, 2000);
+    setTimeout(() => {
+        resolve("Data received from server");
+    }, 2000);
 
-// });
+});
