@@ -18,6 +18,9 @@ const login = new Promise((resolve, reject) => {
     if(password === 123){
         resolve("Login Successfully")
     }
+    // else{
+    //     reject("Wrong Password")
+    // }
 }
 
 )
