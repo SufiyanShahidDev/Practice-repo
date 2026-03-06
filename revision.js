@@ -15,8 +15,12 @@ console.log(pricesWithTax);
 
 // array.filter((element) => condition)
 
-let numbers = [5, 12, 8, 20];
+// let numbers = [5, 12, 8, 20];
 
-let result = numbers.filter(num => num > 10);
+// let result = numbers.filter(num => num > 10);
 
-console.log(result);
+// console.log(result);
+
+// includes() syntax
+
+// array.includes(value)
