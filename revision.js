@@ -28,3 +28,13 @@
 // let roles = ["admin", "editor", "user"];
 
 // console.log(roles.includes("admin"));  
+
+// join() syntax
+
+// array.join(separator)
+
+// let words = ["JavaScript", "is", "awesome"];
+
+// let sentence = words.join(" ");
+
+// console.log(sentence);
