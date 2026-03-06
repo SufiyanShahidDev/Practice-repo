@@ -1,6 +1,6 @@
 
 // Array Syntax
 
-// array.map((element, index, array) => {
-//    return newValue;
-// })
+array.map((element, index, array) => {
+   return newValue;
+})
