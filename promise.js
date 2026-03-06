@@ -9,3 +9,5 @@ const fetchData = new Promise((resolve, reject) => {
 fetchData
     .then(data => console.log(data))
     .catch(err => console.log(err));
+
+// login Promise
