@@ -13,4 +13,10 @@ console.log(pricesWithTax);
 
 // filter() syntax
 
-array.filter((element) => condition)
+// array.filter((element) => condition)
+
+let numbers = [5, 12, 8, 20];
+
+let result = numbers.filter(num => num > 10);
+
+console.log(result);
