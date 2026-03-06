@@ -5,3 +5,7 @@ const fetchData = new Promise((resolve, reject) => {
     }, 2000);
 
 });
+
+// fetchData
+//     .then(data => console.log(data))
+//     .catch(err => console.log(err));
