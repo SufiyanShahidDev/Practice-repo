@@ -5,11 +5,11 @@
 //    return newValue;
 // })
 
-let prices = [100, 200, 300];
+// let prices = [100, 200, 300];
 
-let pricesWithTax = prices.map(price => price * 1.1);
+// let pricesWithTax = prices.map(price => price * 1.1);
 
-console.log(pricesWithTax);
+// console.log(pricesWithTax);
 
 // filter() syntax
 
@@ -24,3 +24,7 @@ console.log(pricesWithTax);
 // includes() syntax
 
 // array.includes(value)
+
+// let roles = ["admin", "editor", "user"];
+
+// console.log(roles.includes("admin"));  
