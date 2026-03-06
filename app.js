@@ -25,6 +25,7 @@ var longestCommonPrefix = function (strs) {
     return prefix;
 };
 
+// const arr = [""];
 
 let longestCommonPrefixVar = longestCommonPrefix(arr);
 
