@@ -1,9 +1,9 @@
 
 // Array Syntax
 
-array.map((element, index, array) => {
-   return newValue;
-})
+// array.map((element, index, array) => {
+//    return newValue;
+// })
 
 let prices = [100, 200, 300];
 
