@@ -25,6 +25,6 @@ const login = new Promise((resolve, reject) => {
 
 )
 
-// login
-//     .then(res => console.log(res))
-//     .catch(err => console.log(err));
+login
+    .then(res => console.log(res))
+    .catch(err => console.log(err));
