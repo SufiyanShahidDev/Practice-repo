@@ -13,7 +13,7 @@ fetchData
 // login Promise
 
 const login = new Promise((resolve, reject) => {
-    let password = 123;
+    let password = 1234;
 
     if(password === 123){
         resolve("Login Successfully")
@@ -24,3 +24,7 @@ const login = new Promise((resolve, reject) => {
 }
 
 )
+
+// login
+//     .then(res => console.log(res))
+//     .catch(err => console.log(err));
