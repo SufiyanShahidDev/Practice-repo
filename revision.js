@@ -38,3 +38,15 @@
 // let sentence = words.join(" ");
 
 // console.log(sentence);
+
+// reduce() syntax
+
+// array.reduce((accumulator, currentValue) => {
+//    return updatedValue;
+// }, initialValue)
+
+let nums = [10, 20, 30];
+
+let total = nums.reduce((sum, num) => sum + num, 0);
+
+console.log(total);
