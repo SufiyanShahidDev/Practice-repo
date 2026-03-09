@@ -30,3 +30,6 @@
 // let longestCommonPrefixVar = longestCommonPrefix(arr);
 
 // console.log("longestCommonPrefixVar: ", longestCommonPrefixVar);
+
+// Testing
+
