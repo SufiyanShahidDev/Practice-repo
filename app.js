@@ -42,3 +42,5 @@ setTimeout(() => {
 Promise.resolve("Promise resolved").then((val) => {
     console.log(val);
 });
+
+// console.log("End");
