@@ -57,4 +57,4 @@ Promise.resolve().then(() => {
   setTimeout(() => console.log("Timeout inside Promise"), 0);
 });
 
-// console.log("End");
+console.log("End");
