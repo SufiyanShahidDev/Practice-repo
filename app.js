@@ -34,3 +34,7 @@
 // Testing
 
 console.log("Start");
+
+// setTimeout(() => {
+//     console.log("Timeout");
+// }, 0);
