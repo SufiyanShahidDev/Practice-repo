@@ -33,14 +33,14 @@
 
 // Testing
 
-console.log("Start");
+// console.log("Start");
 
-setTimeout(() => {
-    console.log("Timeout");
-}, 0);
+// setTimeout(() => {
+//     console.log("Timeout");
+// }, 0);
 
-Promise.resolve("Promise resolved").then((val) => {
-    console.log(val);
-});
+// Promise.resolve("Promise resolved").then((val) => {
+//     console.log(val);
+// });
 
-console.log("End");
+// console.log("End");
