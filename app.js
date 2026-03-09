@@ -39,6 +39,6 @@ setTimeout(() => {
     console.log("Timeout");
 }, 0);
 
-// Promise.resolve("Promise resolved").then((val) => {
-//     console.log(val);
-// });
+Promise.resolve("Promise resolved").then((val) => {
+    console.log(val);
+});
