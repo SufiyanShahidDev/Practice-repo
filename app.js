@@ -59,16 +59,16 @@
 
 // console.log("End");
 
-console.log("Start");
+// console.log("Start");
 
-const p1 = Promise.resolve("resolved");
-const p2 = Promise.reject("Error");
-const p3 = Promise.resolve("C");
+// const p1 = Promise.resolve("resolved");
+// const p2 = Promise.reject("Error");
+// const p3 = Promise.resolve("C");
 
-Promise.all([p1, p2, p3])
-  .then((res) => {
-    console.log(res);
-  })
-  .catch((err) => {
-    console.log(err);
-  });
+// Promise.all([p1, p2, p3])
+//   .then((res) => {
+//     console.log(res);
+//   })
+//   .catch((err) => {
+//     console.log(err);
+//   });
